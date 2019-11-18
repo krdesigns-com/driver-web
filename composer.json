@@ -16,10 +16,10 @@
     ],
     "require": {
         "php": "^7.2",
-        "krbotman/botman": "2.6.*"
+        "krbotman/botman": "2.6.0"
     },
     "require-dev": {
-        "krbotman/studio-addons": "1.6.*",
+        "krbotman/studio-addons": "1.6.0",
         "illuminate/support": "~5.5.0",
         "phpunit/phpunit": "^7.0|^8.0",
         "mockery/mockery": "dev-master",
