@@ -16,7 +16,7 @@
     ],
     "require": {
         "php": "^7.2",
-        "krbotman/botman": "~3.0"
+        "krbotman/botman": "2.6.*"
     },
     "require-dev": {
         "krbotman/studio-addons": "1.6.*",
