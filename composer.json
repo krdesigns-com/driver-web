@@ -1,5 +1,5 @@
 {
-    "name": "krbotman/driver-web",
+    "name": "krdesigns/driver-web",
     "license": "MIT",
     "description": "Web driver for BotMan",
     "keywords": [
@@ -16,14 +16,14 @@
     ],
     "require": {
         "php": "^7.2",
-        "krbotman/botman": "2.6.0"
+        "krdesigns/botman": "2.6.0"
     },
     "require-dev": {
-        "krbotman/studio-addons": "1.6.0",
+        "krdesigns/studio-addons": "1.6.0",
         "illuminate/support": "~5.5.0",
         "phpunit/phpunit": "^7.0|^8.0",
         "mockery/mockery": "dev-master",
-        "krbotman/driver-facebook": "1.11.0",
+        "krdesigns/driver-facebook": "1.11.0",
         "ext-curl": "*"
     },
     "autoload": {
